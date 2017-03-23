@@ -6,6 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent {
-  title = 'Welcome to Connected';
-  subTitle = 'Rethink the social network'
 }
